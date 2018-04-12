@@ -9,7 +9,7 @@ SECRET_KEY = 'ajsdgas7&*kosdsa21[]jaksdhlka-;kmcv8l$#diepsm8&ah^'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'ec2-54-204-120-190.compute-1.amazonaws.com']
+ALLOWED_HOSTS = ['localhost', 'ec2-54-197-137-141.compute-1.amazonaws.com']
 
 # Application definition
 
